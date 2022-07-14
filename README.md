@@ -55,12 +55,3 @@ O que você aprendeu construindo esse projeto? Quais desafios você enfrentou e 
 Ao decorrer do projeto consegui fixar vários conceitos como modelagem de dados, consultas e a propria linguagem c# em si, sem contar todo o conhecimento gerado na ferramenta Visual studio 2022.
 
  Acredito que o maior desafio foi desenvolver as interações com o banco de dados, realizar as consultas e retorna-las no local adequado com a formatação adequada, porém através das documentações da microsoft, mysql e foruns como stack overflow, consegui sanar todas as minhas dúvidas e superar todos esses desafios e prosseguir com o projeto. 
-## Roadmap
-
-- Modelagem relacional do banco de dados mysql.
-- População das tabelas com dados fictícios.
-- Instalação e configuração do Visual studio 2022.
-- Criação da solução desktop em C#.
-- Criação do Layout dos formulários do windows.
-- Instalação da extensão MySql.Data .
-- Conexão com o Banco e desenvolvimento das operações CRUD.

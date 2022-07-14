@@ -3,9 +3,29 @@
 
 Esse é um projeto Básico feito em c# com windows forms para realizar operações CRUD no banco de dados MYSQL.
 
-## Screenshots
+# Screenshots
 
-###HOME
+## HOME
+<div align="center">
+<img src="https://user-images.githubusercontent.com/55064565/178942532-4e139f7f-f976-454a-8dd6-fa89bd265b38.jpg" width="700px" />
+</div>
+
+## CREATE
+<div align="center">
+<img src="https://user-images.githubusercontent.com/55064565/178942532-4e139f7f-f976-454a-8dd6-fa89bd265b38.jpg" width="700px" />
+</div>
+
+## READ
+<div align="center">
+<img src="https://user-images.githubusercontent.com/55064565/178942532-4e139f7f-f976-454a-8dd6-fa89bd265b38.jpg" width="700px" />
+</div>
+
+## UPDATE
+<div align="center">
+<img src="https://user-images.githubusercontent.com/55064565/178942532-4e139f7f-f976-454a-8dd6-fa89bd265b38.jpg" width="700px" />
+</div>
+
+## DELETE
 <div align="center">
 <img src="https://user-images.githubusercontent.com/55064565/178942532-4e139f7f-f976-454a-8dd6-fa89bd265b38.jpg" width="700px" />
 </div>

@@ -17,7 +17,7 @@ Esse é um projeto Básico feito em c# com windows forms para realizar operaçõ
 
 ## READ
 <div align="center">
-<img src="https://user-images.githubusercontent.com/55064565/178942532-4e139f7f-f976-454a-8dd6-fa89bd265b38.jpg" width="700px" />
+<img src="https://user-images.githubusercontent.com/55064565/178943977-cfb2bcfc-8c4d-4423-b001-0de5ec5f1c85.jpg" width="700px" />
 </div>
 
 ## UPDATE

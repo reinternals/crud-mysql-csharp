@@ -30,6 +30,11 @@ Esse é um projeto Básico feito em c# com windows forms para realizar operaçõ
 <img src="https://user-images.githubusercontent.com/55064565/178944777-98b7a8f0-35ad-449f-adc2-e2460e877de6.jpg" width="700px" />
 </div>
 
+## SCHEMA
+<div align="center">
+<img src="https://user-images.githubusercontent.com/55064565/178947072-fbb7b8e7-9369-4320-acf5-4ae03d185305.png" width="700px" />
+</div>
+
 ## Funcionalidades
 
 - Teste de conexão com o Banco.

@@ -22,7 +22,7 @@ Esse é um projeto Básico feito em c# com windows forms para realizar operaçõ
 
 ## UPDATE
 <div align="center">
-<img src="https://user-images.githubusercontent.com/55064565/178942532-4e139f7f-f976-454a-8dd6-fa89bd265b38.jpg" width="700px" />
+<img src="https://user-images.githubusercontent.com/55064565/178944225-50ea0912-ca8c-4bc3-bd82-21192bbe40ea.jpg" width="700px" />
 </div>
 
 ## DELETE

@@ -54,4 +54,4 @@ O que você aprendeu construindo esse projeto? Quais desafios você enfrentou e 
 
 Ao decorrer do projeto consegui fixar vários conceitos como modelagem de dados, consultas e a propria linguagem c# em si, sem contar todo o conhecimento gerado na ferramenta Visual studio 2022.
 
- Acredito que o maior desafio foi desenvolver as interações com o banco de dados, realizar as consultas e retorna-las no local adequado com a formatação adequada, porém através das documentações da microsoft, mysql e foruns como stack overflow, consegui sanar todas as minhas dúvidas e superar todos esses desafios e prosseguir com o projeto. 
+ Acredito que o maior desafio foi desenvolver as interações com o banco de dados, realizar as consultas e retorna-las no local adequado com a formatação adequada, porém através das documentações da microsoft, mysql e foruns como stack overflow, consegui sanar todas as minhas dúvidas e superar todos esses desafios para prosseguir com o projeto. 

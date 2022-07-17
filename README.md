@@ -1,7 +1,7 @@
 
 # CRUD MYSQL e C# com Interface gráfica
 
-Esse é um projeto Básico feito em c# com windows forms para realizar operações CRUD no banco de dados MYSQL, usando o schema hr da oracle adaptado para o MySQL.
+Esse é um projeto Básico feito em c# com windows forms para realizar operações CRUD no banco de dados MySQL, usando o schema hr da oracle adaptado para o MySQL.
 
 # Screenshots
 
